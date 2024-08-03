@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1722644878817",
+    "presupuesto": "4567",
+    "unidad": "567890",
+    "tipodebienoservicio": "urgencias",
+    "cantidad": "567",
+    "valorUnitario": "567",
+    "valorTotal": "74",
+    "fechadeAdquisicion": "2024-08-01",
+    "proveedor": "567",
+    "documentacion": "c.c",
+    "estado": 1
+  },
+  {
+    "id": "1722644963825",
+    "presupuesto": "0987",
+    "unidad": "87",
+    "cantidad": "9876",
+    "valorUnitario": "985",
+    "valorTotal": "74",
+    "fechadeAdquisicion": "2024-08-01",
+    "proveedor": "By",
+    "documentacion": "factura",
+    "estado": 0,
+    "tipodebienoservicio": "urgenciasA"
+  },
+  {
+    "id": "1722645070171",
+    "presupuesto": "5678",
+    "unidad": "56789",
+    "tipodebienoservicio": "atencion-primaria",
+    "cantidad": "48",
+    "valorUnitario": "567",
+    "valorTotal": "676",
+    "fechadeAdquisicion": "2024-08-08",
+    "proveedor": "GM",
+    "documentacion": "Orden",
+    "estado": 0
+  }
+]
